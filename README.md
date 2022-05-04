@@ -46,7 +46,7 @@ Start the server
 
 - Server: [http://localhost:3000/](http://localhost:3000/)
 
-## API's Used
+## `API's Used`
 
 - Coin Gecko: [https://www.coingecko.com/en/api](https://www.coingecko.com/en/api)
 - Coin Paprika: [https://api.coinpaprika.com/](https://api.coinpaprika.com/)
