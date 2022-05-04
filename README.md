@@ -30,15 +30,15 @@ Check the live version: [#](#)
 
 - Clone this repository
 
-Go to the project directory
+- Go to the project directory
 
-Install dependencies
+- Install dependencies
 
 ```bash
   npm install
 ```
 
-Start the server
+- Start the server
 
 ```bash
   npm start
